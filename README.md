@@ -1,5 +1,5 @@
 # react-native-folder-structure
-> Provides a basic folder structure to your brand new project
+> Provides a basic folder structure to your brand new react native project
 
 ## Usage
 
