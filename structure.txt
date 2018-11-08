@@ -1,0 +1,24 @@
+mkdir src
+mkdir src/components
+mkdir src/config
+mkdir src/data
+mkdir src/functions
+mkdir src/reducers
+mkdir src/store
+mkdir src/views
+
+touch src/components/package.json
+touch src/config/package.json
+touch src/data/package.json
+touch src/functions/package.json
+touch src/reducers/package.json
+touch src/store/package.json
+touch src/views/package.json
+
+echo "{ \"name\": \"components\" }" >> src/components/package.json
+echo "{ \"name\": \"config\" }" >> src/config/package.json
+echo "{ \"name\": \"data\" }" >> src/data/package.json
+echo "{ \"name\": \"functions\" }" >> src/functions/package.json
+echo "{ \"name\": \"reducers\" }" >> src/reducers/package.json
+echo "{ \"name\": \"store\" }" >> src/store/package.json
+echo "{ \"name\": \"views\" }" >> src/views/package.json
