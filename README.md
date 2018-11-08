@@ -4,6 +4,5 @@
 ## Usage
 
 ```
-wget https://raw.githubusercontent.com/andrescalco/react-native-folder-structure/master/structure.txt
-bash structure.txt
+wget https://raw.githubusercontent.com/andrescalco/react-native-folder-structure/master/structure.txt && bash structure.txt
 ```
